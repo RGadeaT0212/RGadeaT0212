@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Ronmel! 👋
 
-<!--
-**RGadeaT0212/RGadeaT0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Frontend Developer based in **San José, Costa Rica** 🇨🇷. I love building practical web applications and exploring the world of Progressive Web Apps (PWAs).
 
-Here are some ideas to get you started:
+### 🛠️ What I'm currently working with:
+* **Languages:** HTML5, CSS3, JavaScript (ES6)
+* **Mobile Web:** Progressive Web Apps (PWAs), Service Workers, Manifest environments
+* **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+* **[My Notes App](https://github.com/RGadeaT0212/My_Notes_App):** A clean, theme-customizable, bilingual Note and Checklist PWA optimized for mobile home screen installation. 
+  * 🌐 [Launch Live App on your Mobile Browser](https://rgadeat0212.github.io/My_Notes_App/)
+
+---
